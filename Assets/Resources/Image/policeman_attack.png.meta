@@ -1,0 +1,1651 @@
+fileFormatVersion: 2
+guid: 74e9ee44a2e100d4db96f7b32e5ce1b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7867265605778594044
+    second: policemanman_attack_0
+  - first:
+      213: 359853770376438155
+    second: policemanman_attack_1
+  - first:
+      213: -1290256181420417724
+    second: policemanman_attack_2
+  - first:
+      213: 4348526541518406168
+    second: policemanman_attack_3
+  - first:
+      213: 8286542106613768376
+    second: policemanman_attack_4
+  - first:
+      213: -1513952572961451604
+    second: policemanman_attack_5
+  - first:
+      213: 2762414956696226713
+    second: policemanman_attack_6
+  - first:
+      213: 2094561809594955366
+    second: policemanman_attack_7
+  - first:
+      213: 2478205000584322057
+    second: policemanman_attack_8
+  - first:
+      213: 5404814780164826445
+    second: policemanman_attack_9
+  - first:
+      213: 2811650516903241491
+    second: policemanman_attack_10
+  - first:
+      213: -1768775712046091922
+    second: policemanman_attack_11
+  - first:
+      213: -1769426518858790532
+    second: policemanman_attack_12
+  - first:
+      213: 2732062391716687898
+    second: policemanman_attack_13
+  - first:
+      213: -8189886677726754465
+    second: policemanman_attack_14
+  - first:
+      213: 856411805654242857
+    second: policemanman_attack_15
+  - first:
+      213: 7163735366627640707
+    second: policemanman_attack_16
+  - first:
+      213: -3350856835070212510
+    second: policemanman_attack_17
+  - first:
+      213: 3133785482113267662
+    second: policemanman_attack_18
+  - first:
+      213: -5023937135976702803
+    second: policemanman_attack_19
+  - first:
+      213: -6202058188288201121
+    second: policemanman_attack_20
+  - first:
+      213: 8353248647341913819
+    second: policemanman_attack_21
+  - first:
+      213: 1570297873265617834
+    second: policemanman_attack_22
+  - first:
+      213: 1330853535820280231
+    second: policemanman_attack_23
+  - first:
+      213: 1815945902188101376
+    second: policemanman_attack_24
+  - first:
+      213: -6288456286353626051
+    second: policemanman_attack_25
+  - first:
+      213: -7232607254796508523
+    second: policemanman_attack_26
+  - first:
+      213: 3816262501353362776
+    second: policemanman_attack_27
+  - first:
+      213: 8007896869846670455
+    second: policemanman_attack_28
+  - first:
+      213: -3375179148729748177
+    second: policemanman_attack_29
+  - first:
+      213: -3241916413620972407
+    second: policemanman_attack_30
+  - first:
+      213: -4614385321006136447
+    second: policemanman_attack_31
+  - first:
+      213: 8629576825537624498
+    second: policemanman_attack_32
+  - first:
+      213: -1776567809403427283
+    second: policemanman_attack_33
+  - first:
+      213: -171556217778164114
+    second: policemanman_attack_34
+  - first:
+      213: 7030631145584030710
+    second: policemanman_attack_35
+  - first:
+      213: 3482317110952685581
+    second: policemanman_attack_36
+  - first:
+      213: -5791846226430858189
+    second: policemanman_attack_37
+  - first:
+      213: -4209412691724917097
+    second: policemanman_attack_38
+  - first:
+      213: 3436953851216503218
+    second: policemanman_attack_39
+  - first:
+      213: 7485181191552071774
+    second: policemanman_attack_40
+  - first:
+      213: 8680429858285474770
+    second: policemanman_attack_41
+  - first:
+      213: 3623528008768785144
+    second: policemanman_attack_42
+  - first:
+      213: 4576536655420455925
+    second: policemanman_attack_43
+  - first:
+      213: 6809190652617326271
+    second: policemanman_attack_44
+  - first:
+      213: -1914648169486472758
+    second: policemanman_attack_45
+  - first:
+      213: 3687625778831927998
+    second: policemanman_attack_46
+  - first:
+      213: -607250159777954465
+    second: policemanman_attack_47
+  - first:
+      213: -1669798746413461146
+    second: policemanman_attack_48
+  - first:
+      213: 5610334315654495769
+    second: policemanman_attack_49
+  - first:
+      213: 4569201292934669743
+    second: policemanman_attack_50
+  - first:
+      213: -1772750806113986978
+    second: policemanman_attack_51
+  - first:
+      213: -6345009388103010460
+    second: policemanman_attack_52
+  - first:
+      213: 4376003915974915791
+    second: policemanman_attack_53
+  - first:
+      213: 7240288315693306927
+    second: policemanman_attack_54
+  - first:
+      213: -1596870470393272344
+    second: policemanman_attack_55
+  - first:
+      213: 540856705155120812
+    second: policemanman_attack_56
+  - first:
+      213: -3716370502627448471
+    second: policemanman_attack_57
+  - first:
+      213: -3155556546213969808
+    second: policemanman_attack_58
+  - first:
+      213: 114603226176705132
+    second: policemanman_attack_59
+  - first:
+      213: 5774454300902796121
+    second: policemanman_attack_60
+  - first:
+      213: -2934972286339505816
+    second: policemanman_attack_61
+  - first:
+      213: 2147512683391532350
+    second: policemanman_attack_62
+  - first:
+      213: -1300365637487279467
+    second: policemanman_attack_63
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: policemanman_attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 952
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8688ed3180e246428d2137ecb0bd6ac
+      internalID: -7867265605778594044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 952
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd9a87924a450b4cb322c5d15055bd7
+      internalID: 359853770376438155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 952
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bbe0b252ed4894f93704239f5e9a51
+      internalID: -1290256181420417724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_3
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 952
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67553584b244592438bf3c546317fb4c
+      internalID: 4348526541518406168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_4
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 952
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fe2b97b7bc86447a8702b2fddfe487
+      internalID: 8286542106613768376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_5
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 952
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7d12b70cd68ae4ca5b02c130b811ec
+      internalID: -1513952572961451604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_6
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 952
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52fa4bd80de03040ac5d3eeb180afba
+      internalID: 2762414956696226713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_7
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 952
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd32238993a48dc45b8479de13ba730d
+      internalID: 2094561809594955366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f40fd48d00efc49ae332e0445757df
+      internalID: 2478205000584322057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_9
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 816
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcd8635a2a014445af8459cee5443ac
+      internalID: 5404814780164826445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_10
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 816
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f3683ec3b2dd54e874ff51bfd8a38f
+      internalID: 2811650516903241491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_11
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 816
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a0857058f13e74b90123f87cd8b1ab
+      internalID: -1768775712046091922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_12
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 816
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6f3fdcb3f2cc642ae26cf72cbd2fbb
+      internalID: -1769426518858790532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_13
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 816
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb6f23f27700eb45949089d9b86e01c
+      internalID: 2732062391716687898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_14
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 816
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77c74ea19655a94b86014bdc8b3a65a
+      internalID: -8189886677726754465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_15
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 816
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6474c55d1aad0842a9c37b98ea1df0a
+      internalID: 856411805654242857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74680d17761e69d41a76104e50c4c9b2
+      internalID: 7163735366627640707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_17
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 680
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23c55ad5507cf54d81d91bf9c63abec
+      internalID: -3350856835070212510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_18
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 680
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1657be192ef8984cbb54b98da710fd9
+      internalID: 3133785482113267662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_19
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 680
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfddf9d889523d42b9099e11f8ca58d
+      internalID: -5023937135976702803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_20
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 680
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03379d8aa0001944a7a62972887c912
+      internalID: -6202058188288201121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_21
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 680
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cce77a450d58342ab3d98270e83bcc
+      internalID: 8353248647341913819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_22
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 680
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f545f7488a33e4ea8924e1e3df2e55
+      internalID: 1570297873265617834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_23
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 680
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc8cb8846e707944b1e0a1f75a83185
+      internalID: 1330853535820280231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417b3a45d63812147b02aa383372c842
+      internalID: 1815945902188101376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_25
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 544
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34f432e25c79034bbeac36c37284bdf
+      internalID: -6288456286353626051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_26
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 544
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555147a253217904ba53384a82be5342
+      internalID: -7232607254796508523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_27
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 544
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8d3492d344d3d4092bcfe52309514e
+      internalID: 3816262501353362776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_28
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 544
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b07291a58fef3428256c65bb3bc091
+      internalID: 8007896869846670455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_29
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 544
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000ede9fc834ee14ab9791b2d4fb7b01
+      internalID: -3375179148729748177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_30
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 544
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95e873e57583b04d91d0c6e28df3162
+      internalID: -3241916413620972407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_31
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 544
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be3fe5ff983bb746a24a8929dcfa782
+      internalID: -4614385321006136447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360d361dc9359a84598c654a9c23a80c
+      internalID: 8629576825537624498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_33
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 408
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c57323961ecdf843837244a865d3ed5
+      internalID: -1776567809403427283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_34
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 408
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08c11b60d892c942865633500c321f9
+      internalID: -171556217778164114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_35
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 408
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6c1af6519c3334aac849508a9fc843
+      internalID: 7030631145584030710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_36
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 408
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a50c31020671b488c3564e24fa4d55
+      internalID: 3482317110952685581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_37
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 408
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b617a05b59744824893a7ad7cadb621b
+      internalID: -5791846226430858189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_38
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 408
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bc32b42f211f144b41014d051a4ea4
+      internalID: -4209412691724917097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_39
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 408
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c08e675017cf34a9c358a502c70e70
+      internalID: 3436953851216503218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef28ff9789f94ad4e97b14ee9898fa49
+      internalID: 7485181191552071774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_41
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 272
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c79ebea45ed854eb742747e5230b54
+      internalID: 8680429858285474770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_42
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 272
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9a8b5568a2efc41aa4c347213bdd89
+      internalID: 3623528008768785144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_43
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 272
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4870a30d53d884ebf6c594813fc938
+      internalID: 4576536655420455925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_44
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 272
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb4ea2a02104674d9fd8512b4a47e9f
+      internalID: 6809190652617326271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_45
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 272
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f3db32f956f16488d759c81cb125c8
+      internalID: -1914648169486472758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_46
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 272
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc35d89458d84a8458c44668c05d5d9d
+      internalID: 3687625778831927998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_47
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 272
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d900f72095ee4045b163b4681ee40f7
+      internalID: -607250159777954465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c173b9f87e8f94f94b79a934a1f42a
+      internalID: -1669798746413461146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_49
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 136
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa28b8ff95cc6344869df29a58afd66
+      internalID: 5610334315654495769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_50
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 136
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275110016eef2eb42978c50a4cd5584d
+      internalID: 4569201292934669743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_51
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 136
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd060ce91105a284bb73b79f5cd9e36b
+      internalID: -1772750806113986978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_52
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 136
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81231b6e8a2504748ac53141a5b07b41
+      internalID: -6345009388103010460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_53
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 136
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bfdda68a542dd4b8a24661318911c1
+      internalID: 4376003915974915791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_54
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 136
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02c881d8e194d64185b8b68396d2780
+      internalID: 7240288315693306927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_55
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 136
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc869ef40d8cea4c8e95be567904ea5
+      internalID: -1596870470393272344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c1cd483179be349a7dc2857f655236
+      internalID: 540856705155120812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_57
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae270a72f1de59b40ae34628ab83f452
+      internalID: -3716370502627448471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_58
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 0
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b847e2b65a18d554095ddfc04852039d
+      internalID: -3155556546213969808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_59
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 0
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70b790527a983a489a280be7049fc89
+      internalID: 114603226176705132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_60
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 0
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe2c0b78d661d14da2466c604dce3bf
+      internalID: 5774454300902796121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_61
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 0
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1310167a4026e3a4c89dbc92994a4410
+      internalID: -2934972286339505816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_62
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 0
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc3af3d9ff9e0344901c18dc2b641e1
+      internalID: 2147512683391532350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policemanman_attack_63
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 0
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89b1c3771f5a3f4caf15b1e33c7732b
+      internalID: -1300365637487279467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
